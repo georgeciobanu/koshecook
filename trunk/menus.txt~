@@ -1,0 +1,34 @@
+-------------------------------------------
+template_selection_dialog
+
+Choose template
+<Template drop-down list>   or Add new template button (template creation dialogue in new window)
+Edit selected template
+
+
+
+
+Next
+
+
+
+
+
+-------------------------------------------
+template_configuration_dialog (template chosen)
+for each template entry choose a recipe   OR   add a new recipe button (recipe creation dialogue in new window)
+
+
+Number of people drop-down(1-1000)
+
+Next
+
+-------------------------------------------
+results_dialogue
+
+Ingredients list with quantities and places to buy them
+Recipe list in order, as text boxes
+
+
+
+
